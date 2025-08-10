@@ -1,6 +1,7 @@
 import { Stack } from 'expo-router';
 import { SplashScreen } from 'expo-router';
 import { useEffect } from 'react';
+import 'react-native-reanimated';
 
 import {
   useFonts as useMontserratAlternates,
